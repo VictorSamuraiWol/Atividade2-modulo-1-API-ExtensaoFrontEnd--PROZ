@@ -1,3 +1,5 @@
+Atividade2-modulo-1-API-ExtensaoFrontEnd--PROZ
+
 Você está desenvolvendo um site de e-commerce e precisa exibir uma lista de produtos ao seu usuário. Para isso, você precisa fazer uma requisição do tipo GET a uma API solicitando a lista de produtos pela seguinte URL: https://lojafalsaapi.com/produtos.
 
 Pensando em como aprimorar a experiência do seu usuário, você confere a documentação da API e encontra o seguinte trecho: 
